@@ -1,4 +1,4 @@
-Forex Factory Calendar Scraper
+Announcement Record Retriever
 
 
 This code retrieves announcement records from www.forexfactory.com.
