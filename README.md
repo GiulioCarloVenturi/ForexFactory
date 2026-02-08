@@ -10,7 +10,7 @@ Step 1: scrape entries, relevance and topics from the open-source macroeconomic 
   
 Step 2: merge concurrent announcements to form tight high-frequency windows
 
-Step 3: exploit high-frequency financial data to compute the response of financial assets within high-frequency windows 
+Step 3: exploit LSEG high-frequency financial data to compute the response of financial assets within high-frequency windows 
 
 Step 4: evalutate macroeconomic spillovers (e.g. impact of US macroeconomic data onto Treasury yield and Bund yields)
 
